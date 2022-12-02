@@ -10,8 +10,7 @@ I strive to achieve optimal-redundancy by cuttin as many middle men out of syste
   * decentralized energy generation - active and passive methods
   * energy management - passive heat storages and bitcoin mining: both serving as buffers.
 
-💞️ I’m looking to collaborate on - well basically - any of the topics mentioned above, first and foremost on software and softw.dev.management related issues.
-
+💞️ I’m looking to collaborate on - well basically - any of the topics mentioned above, first and foremost on software and open software development management related issues.
 <!---
 sziller/sziller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
