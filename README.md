@@ -12,7 +12,7 @@ I love solutions that work, even if rough on the edges.
   * decentralized energy generation - active and passive methods
   * energy management - passive heat storages and bitcoin mining: both serving as buffers.
 
-* 💞️ I’m looking to collaborate on - well basically - any of the topics mentioned above, first and foremost on software and softw.dev.management related issues.
+💞️ I’m looking to collaborate on - well basically - any of the topics mentioned above, first and foremost on software and softw.dev.management related issues.
 
 <!---
 sziller/sziller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
