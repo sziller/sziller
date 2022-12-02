@@ -1,7 +1,6 @@
-* 👋 Hi, I’m @sziller, enterpreneur, freelance developer, Bitcoin Maxi! 
-* 👀 I’m interested in ...
+* 👋 Hi, I’m @sziller, an engineer with decentralization and self-sufficiency on his mind 
+* 👀 I’m interested in Engineering soultions for real life problems accessible to anyone.
 * 🌱 I’m currently learning How to manage a complex Open-source project made up of
-
   * hardware: selection, setup, controlling
   * software: design, imlementation, testing, documentation
   * physical measurements: oracle management, sensors, Blockchain validation
