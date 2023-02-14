@@ -1,4 +1,4 @@
-👋 Hi, I’m @sziller, an engineer with decentralization and self-sufficiency on my mind  
+👋 Hi, I’m @sziller, an engineer and architect with decentralization and self-sufficiency on my mind  
 👀 I’m interested in Engineering soultions for real life problems accessible to anyone, with skunkworks philosophy.  
 I strive to achieve optimal-redundancy by cuttin as many middle men out of systems as possible. I love solutions that work, even if rough on the edges.  
 🌱 I’m currently learning How to *manage a complex Open-source project* made up of
